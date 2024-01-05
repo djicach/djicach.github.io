@@ -5,6 +5,7 @@
     "homeUrl":"https://djicach.github.io",
     "avatarUrl":"https://raw.githubusercontent.com/djicach/djicach.github.io/main/image/favicon.png",
     "faviconUrl":"https://raw.githubusercontent.com/djicach/djicach.github.io/main/image/favicon.png",
+    "singlePage":["link","about"],
     "singlePage":[],
     "GMEEK_VERSION":"last"
 }
